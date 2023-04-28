@@ -6,3 +6,5 @@ Pune
 Bangalore
 Bhopal
 Indore
+JK
+Jaipur

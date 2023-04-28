@@ -8,3 +8,8 @@ Bhopal
 Indore
 JK
 Jaipur
+Imphal
+Kohima
+Agartala
+Srinagar
+Chandigadh
